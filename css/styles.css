@@ -108,7 +108,8 @@ h6 {
 }
 
 #github-chart-img {
-	width: 70rem;
+	/* width: 70rem; */
+	width: 100%;
 }
 
 #personal-photo {
@@ -117,7 +118,8 @@ h6 {
 }
 
 #testimonial-1 {
-	width: 50rem;
+	/* width: 50rem; */
+	width: 100%;
 }
 
 .borderRadius10 {
